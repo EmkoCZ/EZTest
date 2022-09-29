@@ -1,0 +1,7 @@
+D:\Programms\C#\EZTest Server\EZTest Server\bin\Debug\EZTest Server.exe.config
+D:\Programms\C#\EZTest Server\EZTest Server\bin\Debug\EZTest Server.exe
+D:\Programms\C#\EZTest Server\EZTest Server\bin\Debug\EZTest Server.pdb
+D:\Programms\C#\EZTest Server\EZTest Server\obj\Debug\EZTest Server.csprojAssemblyReference.cache
+D:\Programms\C#\EZTest Server\EZTest Server\obj\Debug\EZTest Server.csproj.CoreCompileInputs.cache
+D:\Programms\C#\EZTest Server\EZTest Server\obj\Debug\EZTest Server.exe
+D:\Programms\C#\EZTest Server\EZTest Server\obj\Debug\EZTest Server.pdb

@@ -1,0 +1,12 @@
+D:\Programms\C#\EZTest Server\EZTest_Client\bin\Debug\EZTest_Client.exe.config
+D:\Programms\C#\EZTest Server\EZTest_Client\bin\Debug\EZTest_Client.exe
+D:\Programms\C#\EZTest Server\EZTest_Client\bin\Debug\EZTest_Client.pdb
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.csprojAssemblyReference.cache
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.CreateTest.resources
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.Form1.resources
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.Main.resources
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.Properties.Resources.resources
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.csproj.GenerateResource.cache
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.csproj.CoreCompileInputs.cache
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.exe
+D:\Programms\C#\EZTest Server\EZTest_Client\obj\Debug\EZTest_Client.pdb
